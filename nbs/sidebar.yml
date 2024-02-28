@@ -1,0 +1,41 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 000_core.ipynb
+      - 010_Statistical_Models.ipynb
+      - 020_ML_Models.ipynb
+      - 030_Neural_Models.ipynb
+      - 040_Weather_API.ipynb
+      - 050_Consumption_model.ipynb
+      - 051_Consumption_model_week.ipynb
+      - 060_Solar_model.ipynb
+      - 070_Individual_model_aircon.ipynb
+      - 071_Individual_model_lights.ipynb
+      - 402_xplainable forecasting.ipynb
+      - 500_Optiver.ipynb
+      - section: Examples
+        contents:
+          - Examples/001_XGBoost.ipynb
+          - Examples/002_XGBoost2.ipynb
+          - Examples/003_prophet.ipynb
+          - Examples/100_Darts.ipynb
+          - Examples/101_Hyperparameter Optimization.ipynb
+          - Examples/400_Xplainable.ipynb
+          - Examples/401_Xclassifier.ipynb
+          - section: FFT
+            contents:
+              - Examples/FFT/001_FFT_Analysis.ipynb
+              - Examples/FFT/102_FFT-examples.ipynb
+          - section: Nixtla
+            contents:
+              - Examples/Nixtla/300_Nixtla - StatsForecasting.ipynb
+              - Examples/Nixtla/301_ElectricityLoadForecasting.ipynb
+              - Examples/Nixtla/302_ElectricityPeakForecasting.ipynb
+              - Examples/Nixtla/310_Nixtla - HierarchicalForecast.ipynb
+              - Examples/Nixtla/320_Nixtla - MLForecast.ipynb
+              - Examples/Nixtla/330_Nixtla - NeuralForecast.ipynb
+              - Examples/Nixtla/331_Nixtla - Exogenous_Variables.ipynb
+              - Examples/Nixtla/333_Nixtla - Neural_save_and_load.ipynb
+              - Examples/Nixtla/334_Nixtla - Neural_Advanced.ipynb
+              - Examples/Nixtla/335_Nixtla - All_Methods.ipynb
